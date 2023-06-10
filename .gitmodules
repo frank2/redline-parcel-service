@@ -1,0 +1,6 @@
+[submodule "lib/fmt"]
+	path = lib/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "lib/argparse"]
+	path = lib/argparse
+	url = https://github.com/frank2/argparse.git

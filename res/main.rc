@@ -1,0 +1,5 @@
+#include <winresrc.h>
+#include <resource.hpp>
+
+// MAINICON ICON "mainicon.ico"
+IDI_TEMPLATE SED "template.SED"
